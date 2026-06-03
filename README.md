@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Fakhri Muzakki
 
-**`Frontend Developer (Next.js / React / Tailwind CSS)`**
+**`Full Stack Dev (MERN / Laravel / Golang )`**
 
-I'm a passionate frontend developer crafting modern and responsive web experiences. I love building clean, performant, and visually appealing interfaces — from concept and design to deployment. Every project I create is built with precision, creativity, and the goal of delivering seamless user experiences.
+I'm a Full Stack Developer passionate about building scalable and maintainable web applications using MERN Stack, Laravel, and Golang (Gin). I enjoy working across the entire development lifecycle, from designing databases and developing REST APIs to crafting modern, responsive user interfaces with React, Next.js, and Svelte. I'm constantly learning, refining my engineering practices, and creating solutions that prioritize performance, clean architecture, and great user experiences.
 
 ### 🚀 A Passionate Frontend Developer
 
